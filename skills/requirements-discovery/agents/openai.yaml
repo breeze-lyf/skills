@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求调研"
+  short_description: "从合同、实施清单、会议纪要和客户资料中识别业务主线、边界、假设、客户资料清单和调研问题。"
+  default_prompt: "请使用 requirements-discovery，根据客户资料生成需求调研方案、客户需提供资料清单、业务主流程、确认问题和一期范围建议。"
