@@ -1,0 +1,7 @@
+interface:
+  display_name: "宜搭闭环交付"
+  short_description: "从需求体检到宜搭应用闭环交付"
+  brand_color: "#1677FF"
+  default_prompt: "Use $yida-prd-to-yida-app-builder-zh to审查这份PRD并分阶段搭建宜搭应用模块。"
+policy:
+  allow_implicit_invocation: true
