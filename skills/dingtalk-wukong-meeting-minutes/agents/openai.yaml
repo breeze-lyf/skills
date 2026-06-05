@@ -1,0 +1,4 @@
+interface:
+  display_name: "钉钉悟空会议纪要"
+  short_description: "根据钉钉听记链接或转写，严格按固定 Word 表格模板生成会议纪要。"
+  default_prompt: "请使用 dingtalk-wukong-meeting-minutes，根据钉钉听记链接和会议纪要模板生成严格版式的会议纪要。"
