@@ -1,0 +1,6 @@
+interface:
+  display_name: "启动会到 PRD 工作流"
+  short_description: "把启动会材料和客户表单稳定整理成 PRD"
+  default_prompt: "使用 $meeting-to-prd-workflow，把启动会材料和客户现有表单整理成稳定的客户确认版 PRD。"
+policy:
+  allow_implicit_invocation: true
